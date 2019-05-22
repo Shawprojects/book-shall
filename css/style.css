@@ -1,0 +1,61 @@
+/* Utilities */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.brand {
+  color: red;
+}
+
+.bottom-line {
+  height: 2px;
+  width: 2rem;
+  background: red;
+  display: block;
+  margin: -0.5rem auto 1rem auto;
+}
+
+/* Navbar */
+
+.navbar {
+  border-bottom: 2px solid #333;
+}
+
+/* Card-body submit */
+
+.submit .btn {
+  padding: 0.5rem 4rem;
+}
+
+/* Card Footer Share */
+
+.share a .fab {
+  padding: 0 0.5rem;
+}
+
+/* Social */
+
+.social a .fab {
+  font-size: 1.3rem;
+  padding-right: 1rem;
+  color: #333;
+  text-decoration: none;
+}
+
+/* Footer */
+
+#main-footer {
+  border-top: 2px solid #333;
+  padding: 0.5rem;
+  color: #333;
+}
+
+#main-footer a {
+  color: #333;
+}
