@@ -2,6 +2,8 @@
 
 Book Lists Create App, develop using HTML5, Bootstrap & JavaScript(ES6)
 
+Version - 1.0.
+
 > [View Project >>](https://shawprojects.github.io/book-shall/ "Book Shall")
 
 ---
@@ -12,6 +14,13 @@ Book Lists Create App, develop using HTML5, Bootstrap & JavaScript(ES6)
 - Store more than 1000 books
 - User Friendly App
 - Error Free
+
+---
+
+#### Upcomming Features
+
+- Not Full Responsive yet (22/05/2019)
+- Form validation Error & Success alert
 
 ---
 
